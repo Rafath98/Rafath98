@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafath98
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Html,Css and JS
+- 🌱 I’m currently learning Html,Css,Javascrips and python
 - 💞️ I’m looking to collaborate on a website
 - 📫 How to reach me- rafathmehar26@gmail.com
 
